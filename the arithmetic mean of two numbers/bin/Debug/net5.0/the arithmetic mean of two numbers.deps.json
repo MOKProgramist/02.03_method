@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "the arithmetic mean of two numbers/1.0.0": {
+        "runtime": {
+          "the arithmetic mean of two numbers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "the arithmetic mean of two numbers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
